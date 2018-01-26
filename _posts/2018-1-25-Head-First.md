@@ -3,10 +3,10 @@ layout: post
 title: firstflight
 ---
 
-The firstflight assignment seems to be an introduction into some of the culture of FOSS. It asked for an introduction, which I apart into a seperate blog [here](https://kmtaylor023.github.io/blog1)
+The firstflight assignment seems to be an introduction into some of the culture of FOSS. It asked for an introduction, which I split apart into a seperate blog [here](https://kmtaylor023.github.io/blog1)
 
 ### IRC
-IRC is something I used to use a bit when I was younger, mostly to talk to other people who enjoyed playing pokemon on a popular website. SO getting back onto it was a throwback, but not difficult. The name **ref** has been with me forever, so that was an easy nick. The class IRC is reachable via a browser, but I downloaded hexchat anyway to feel more official..
+IRC is something I used to use a bit when I was younger, mostly to talk to other people who enjoyed playing pokemon on a popular website. SO, getting back onto it was a throwback, but not difficult. The name **ref** has been with me forever, so that was an easy nick. The class IRC is reachable via a browser, but I downloaded hexchat anyway to feel more official..
 
 ### Email
 I believe that we all got an email regarding joining the mailing list outside of this assignment, but I have a bad memory and a habit of deleting possibly important emails (a very destructive combination, I know). **SO** i'm pretty sure I'm good, but my sleep deprived brain has minor doubts..
