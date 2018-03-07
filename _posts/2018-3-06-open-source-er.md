@@ -1,6 +1,6 @@
 ---
 layout: post
-title: blog06
+title: blog07
 ---
 # 50 lines of C, Stat
 This week, I had to begin reading a book about the crumbling open source infrastructure tha most of the modern world is currently relying on. (I have written some form of that sentence several times now and it doesn't feel like english anymore). After reading half of it, I do believe that there is a pretty big and growing problem. According to the author, less people are contributing to the commons while more people continually build new products off of what already is struggling to stay up to date. These new products may or may not be free. It seems like we're in dire need of a way to get people more involved with open source.
