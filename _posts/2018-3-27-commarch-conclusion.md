@@ -2,7 +2,7 @@
 layout: post
 title: commarchteam
 ---
-#Commarch Conclusion
+# Commarch Conclusion
 I think that with any large scale open source problem, there is bound to be some disarray. No one reports to anyone in particular, no one's going to lose a job if they miss a deadline, everyone is just going to work when they can and when they want. Despite this, open source projects still work, and sometimes they work pretty damn well. I think that Godot is one of those open source projects that, despite being large, still has decently well organized community.
 
 The compiled research and analysis done by my team can be found [here](https://github.com/ct-martin/hfoss-commarch-godot/blob/master/research.md). I'm just going to take a minute to add my own thoughts on what was found. Firstly, The way the contributions to the Godot project work is fairly standard. There are any number of contributors who make PRs, and the maintainers will review and close said request. The project avoids having the BDFL issue as there are multiple co-maintainers who all get to make their voice heard in the update process. As for the contributors, the Godot project actually makes it relatively easy to contribute, at least as compared to some smaller projects I've found with no readme and no way to contact other developers listed. Inside the projects forge users can find a document on [how to contribute](https://github.com/godotengine/godot/blob/master/CONTRIBUTING.md) whcih explains in pretty simple terms what newcomers can do to help.
